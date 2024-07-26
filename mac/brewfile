@@ -27,6 +27,7 @@ cask 'slack'
 cask 'figma'
 cask 'microsoft-edge'
 cask 'git-credential-manager'
+cask 'powershell'
 
 # fun stuff
 cask 'spotify'
