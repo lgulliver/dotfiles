@@ -1,0 +1,53 @@
+brew 'git'
+brew 'git-lfs'
+brew 'git-secrets'
+brew 'gh'
+brew 'zsh'
+brew 'zsh-completions'
+brew 'zsh-syntax-highlighting'
+brew 'zsh-autosuggestions'
+brew 'fzf'
+brew 'reattach-to-user-namespace'
+brew 'tmux'
+brew 'make'
+brew 'cmake'
+brew 'openssl'
+brew 'coreutils'
+brew 'jq'
+brew 'gcc'
+brew 'tree'
+brew 'wget'
+brew 'curl'
+brew 'graphviz'
+
+cask 'iterm2'
+cask 'visual-studio-code'
+cask 'docker'
+cask 'slack'
+cask 'figma'
+cask 'microsoft-edge'
+
+# fun stuff
+cask 'spotify'
+brew 'jandedobbeleer/oh-my-posh/oh-my-posh'
+
+# Work stuff
+brew 'kubectl'
+brew 'helm'
+brew 'terraform'
+brew 'azure-cli'
+brew 'awscli'
+brew 'ansible'
+brew 'k9s'
+brew 'go'
+brew 'nvm' # Node Version Manager 
+brew 'node'
+brew 'yarn'
+brew 'python'
+
+cask 'insomnia'
+cask 'dotnet-sdk' # Latest .NET SDK
+
+tap 'hashicorp/tap'
+brew 'hashicorp/tap/terraform'
+brew 'hashicorp/tap/packer'
