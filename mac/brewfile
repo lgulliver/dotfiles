@@ -46,6 +46,7 @@ brew 'nvm' # Node Version Manager
 brew 'node'
 brew 'yarn'
 brew 'python'
+brew 'pre-commit'
 
 cask 'insomnia'
 cask 'dotnet-sdk' # Latest .NET SDK

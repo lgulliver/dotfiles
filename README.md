@@ -11,11 +11,11 @@ This includes my configuration for homebrew, ZSH, git, terminal emulators and ot
 ## Installing with homebrew
 
 ```
-brew bundle --file=~/Brewfile
+brew bundle --file=~/mac/Brewfile
 ```
 
 and
 
 ```
-brew bundle --force cleanup --file=~/Brewfile
+brew bundle --force cleanup --file=~/mac/Brewfile
 ```
